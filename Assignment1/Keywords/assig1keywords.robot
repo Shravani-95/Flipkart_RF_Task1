@@ -12,7 +12,7 @@ add product to cart
     Click Element    ${mobiles}
     Sleep    10
     Click Element    ${mob_cat}
-    Sleep    15
+    Sleep    10
     Scroll Element Into View    ${select_mob}
     Sleep    10
     Click Element    ${select_mob}
